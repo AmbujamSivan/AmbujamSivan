@@ -1,6 +1,6 @@
 # Hi, I'm Ambujam Sivan Pillai 👋
 
-**Full-stack engineer building agentic AI systems for hardware diagnostics and manufacturing.** Based in Austin, TX · [LinkedIn](https://www.linkedin.com/in/ambujam-sivanpillai/)
+**Full-stack engineer building agentic AI systems for hardware diagnostics and manufacturing.** Based in Austin, TX.
 
 I build LLM agents that do real work against real systems. They call tools, cross-check their own output, and fall back to deterministic logic when the model isn't sure. My focus is where AI meets the server management plane and the factory floor.
 
